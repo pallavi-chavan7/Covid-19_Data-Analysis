@@ -1,2 +1,4 @@
-# Covid-19_Data-Analysis
-DATA ANALISYS DETAILS OF COVID-19 CASES 
+# webscapping kaggle.com
+
+Scrapped the data of the Covid-19 cases from kaggle.com
+ 
